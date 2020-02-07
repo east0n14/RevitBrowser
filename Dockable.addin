@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>RvtDockableApp.dll</Assembly>
+    <AddInId>833d7487-45a2-4033-8974-4edc9be26e6d</AddInId>
+    <FullClassName>RvtDockableApp.RvtApplication</FullClassName>
+    <Name>Dockable Pane</Name>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
